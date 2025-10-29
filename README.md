@@ -1,5 +1,5 @@
 # innoverse
-innovators of coding universe
+innovators of coding verse
 <br>
 author Anshika soni 
 <br>
